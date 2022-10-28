@@ -6,4 +6,4 @@ There are 7 key factors that I've taken into account which will help us in deter
 Tools used: Python & Jupyter Notebook Libraries used: Numpy, Pandas, Seaborn, Matplotlib,flask, ipywidgets and sklearn.
  Machine Learning Algorithms used: Clustering Analysis and Logistic Regression.
 
-Deploy the model by using flask.
+Deploy the model by using flask and link with html.
